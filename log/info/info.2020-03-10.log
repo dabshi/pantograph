@@ -1,0 +1,1128 @@
+2020-03-10 11:06:52 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 8140 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 11:06:52 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 11:06:52 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 11:06:52 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 11:06:54 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 11:06:54 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 11:06:54 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 11:06:54 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 11:06:54 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 11:06:54 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 1794 ms
+2020-03-10 11:06:54 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 11:06:55 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 11:06:55 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 11:06:55 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 11:06:55 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 3.213 seconds (JVM running for 3.967)
+2020-03-10 11:07:49 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 11:07:49 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 11:07:49 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 6 ms
+2020-03-10 11:13:43 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 656 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 11:13:43 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 11:13:43 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 11:13:43 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 11:13:45 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 11:13:45 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 11:13:45 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 11:13:45 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 11:13:45 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 11:13:45 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 1928 ms
+2020-03-10 11:13:45 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 11:13:45 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 11:13:45 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 11:13:45 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 11:13:45 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 2.982 seconds (JVM running for 3.5)
+2020-03-10 11:13:47 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 11:13:47 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 11:13:47 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 6 ms
+2020-03-10 11:14:28 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 17516 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 11:14:28 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 11:14:28 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 11:14:28 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 11:14:29 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 11:14:30 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 11:14:30 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 11:14:30 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 11:14:30 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 11:14:30 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 1794 ms
+2020-03-10 11:14:30 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 11:14:30 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 11:14:30 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 11:14:30 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 11:14:30 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 2.818 seconds (JVM running for 3.348)
+2020-03-10 11:14:36 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 11:14:36 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 11:14:36 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 8 ms
+2020-03-10 11:17:53 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 12564 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 11:17:53 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 11:17:53 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 11:17:53 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 11:17:55 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 11:17:55 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 11:17:55 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 11:17:55 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 11:17:55 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 11:17:55 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 1923 ms
+2020-03-10 11:17:55 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 11:17:56 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 11:17:56 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 11:17:56 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 11:17:56 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 3.007 seconds (JVM running for 3.507)
+2020-03-10 11:18:09 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 11:18:09 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 11:18:09 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 6 ms
+2020-03-10 11:18:31 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 4340 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 11:18:31 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 11:18:31 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 11:18:31 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 11:18:33 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 11:18:33 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 11:18:33 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 11:18:33 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 11:18:33 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 11:18:33 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 1768 ms
+2020-03-10 11:18:33 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 11:18:33 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 11:18:33 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 11:18:33 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 11:18:33 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 2.832 seconds (JVM running for 3.378)
+2020-03-10 11:18:35 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 11:18:35 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 11:18:35 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 8 ms
+2020-03-10 11:19:13 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 5388 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 11:19:13 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 11:19:13 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 11:19:13 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 11:19:15 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 11:19:15 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 11:19:15 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 11:19:15 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 11:19:15 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 11:19:15 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 1737 ms
+2020-03-10 11:19:15 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 11:19:16 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 11:19:16 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 11:19:16 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 11:19:16 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 2.789 seconds (JVM running for 3.301)
+2020-03-10 11:19:18 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 11:19:18 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 11:19:18 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 5 ms
+2020-03-10 11:20:58 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 6608 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 11:20:58 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 11:20:58 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 11:20:58 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 11:21:00 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 11:21:00 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 11:21:00 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 11:21:00 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 11:21:00 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 11:21:00 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 1906 ms
+2020-03-10 11:21:00 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 11:21:01 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 11:21:01 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 11:21:01 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 11:21:01 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 2.938 seconds (JVM running for 3.457)
+2020-03-10 11:21:02 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 11:21:02 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 11:21:02 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 7 ms
+2020-03-10 11:22:24 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 7412 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 11:22:24 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 11:22:24 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 11:22:24 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 11:22:26 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 11:22:26 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 11:22:26 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 11:22:26 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 11:22:26 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 11:22:26 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 1882 ms
+2020-03-10 11:22:26 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 11:22:27 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 11:22:27 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 11:22:27 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 11:22:27 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 2.958 seconds (JVM running for 3.496)
+2020-03-10 11:22:31 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 11:22:31 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 11:22:31 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 6 ms
+2020-03-10 11:28:11 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 16992 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 11:28:11 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 11:28:11 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 11:28:11 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 11:28:13 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 11:28:13 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 11:28:13 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 11:28:13 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 11:28:13 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 11:28:13 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 1715 ms
+2020-03-10 11:28:13 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 11:28:13 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 11:28:13 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 11:28:13 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 11:28:13 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 2.754 seconds (JVM running for 3.247)
+2020-03-10 11:28:21 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 11:28:21 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 11:28:21 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 6 ms
+2020-03-10 11:43:47 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 1536 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 11:43:47 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 11:43:47 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 11:43:47 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 11:43:49 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 11:43:49 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 11:43:49 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 11:43:49 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 11:43:49 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 11:43:49 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 1903 ms
+2020-03-10 11:43:49 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 11:43:49 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 11:43:49 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 11:43:49 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 11:43:49 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 3.086 seconds (JVM running for 3.722)
+2020-03-10 11:43:54 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 11:43:54 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 11:43:54 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 7 ms
+2020-03-10 11:46:23 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 17080 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 11:46:23 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 11:46:23 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 11:46:23 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 11:46:25 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 11:46:25 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 11:46:25 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 11:46:25 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 11:46:25 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 11:46:25 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 1910 ms
+2020-03-10 11:46:25 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 11:46:25 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 11:46:25 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 11:46:25 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 11:46:25 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 2.937 seconds (JVM running for 3.502)
+2020-03-10 11:46:27 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 11:46:27 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 11:46:27 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 6 ms
+2020-03-10 11:50:38 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 18540 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 11:50:38 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 11:50:38 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 11:50:38 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 11:50:40 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 11:50:40 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 11:50:40 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 11:50:40 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 11:50:40 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 11:50:40 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 1736 ms
+2020-03-10 11:50:40 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 11:50:40 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 11:50:40 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 11:50:40 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 11:50:40 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 2.797 seconds (JVM running for 3.298)
+2020-03-10 11:50:43 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 11:50:43 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 11:50:43 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 5 ms
+2020-03-10 11:52:11 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 16848 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 11:52:11 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 11:52:11 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 11:52:11 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 11:52:12 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 11:52:12 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 11:52:12 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 11:52:12 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 11:52:13 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 11:52:13 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 1878 ms
+2020-03-10 11:52:13 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 11:52:13 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 11:52:13 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 11:52:13 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 11:52:13 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 2.904 seconds (JVM running for 3.401)
+2020-03-10 11:52:15 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 11:52:15 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 11:52:15 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 6 ms
+2020-03-10 11:54:59 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 4128 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 11:54:59 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 11:54:59 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 11:54:59 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 11:55:00 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 11:55:00 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 11:55:00 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 11:55:00 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 11:55:00 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 11:55:00 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 1714 ms
+2020-03-10 11:55:01 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 11:55:01 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 11:55:01 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 11:55:01 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 11:55:01 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 2.742 seconds (JVM running for 3.259)
+2020-03-10 11:55:03 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 11:55:03 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 11:55:03 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 7 ms
+2020-03-10 11:57:06 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 4108 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 11:57:06 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 11:57:07 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 11:57:07 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 11:57:08 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 11:57:08 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 11:57:08 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 11:57:08 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 11:57:08 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 11:57:08 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 1709 ms
+2020-03-10 11:57:08 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 11:57:09 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 11:57:09 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 11:57:09 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 11:57:09 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 2.695 seconds (JVM running for 3.213)
+2020-03-10 11:57:47 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 11:57:47 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 11:57:47 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 5 ms
+2020-03-10 11:58:38 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 9544 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 11:58:38 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 11:58:38 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 11:58:38 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 11:58:39 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 11:58:40 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 11:58:40 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 11:58:40 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 11:58:40 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 11:58:40 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 1850 ms
+2020-03-10 11:58:40 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 11:58:40 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 11:58:40 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 11:58:40 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 11:58:40 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 2.913 seconds (JVM running for 3.469)
+2020-03-10 11:58:43 INFO  http-nio-8080-exec-2 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 11:58:43 INFO  http-nio-8080-exec-2 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 11:58:43 INFO  http-nio-8080-exec-2 org.springframework.web.servlet.DispatcherServlet Completed initialization in 6 ms
+2020-03-10 12:03:54 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 10008 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 12:03:54 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 12:03:54 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 12:03:54 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 12:03:56 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 12:03:56 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 12:03:56 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 12:03:56 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 12:03:56 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 12:03:56 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 1901 ms
+2020-03-10 12:03:56 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 12:03:56 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 12:03:56 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 12:03:56 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 12:03:56 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 3.055 seconds (JVM running for 3.617)
+2020-03-10 12:03:57 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 12:03:57 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 12:03:57 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 7 ms
+2020-03-10 12:04:31 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 12756 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 12:04:31 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 12:04:32 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 12:04:32 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 12:04:34 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 12:04:34 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 12:04:34 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 12:04:34 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 12:04:34 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 12:04:34 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 2059 ms
+2020-03-10 12:04:34 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 12:04:34 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 12:04:34 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 12:04:34 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 12:04:34 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 3.095 seconds (JVM running for 3.628)
+2020-03-10 12:04:36 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 12:04:36 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 12:04:36 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 6 ms
+2020-03-10 12:06:23 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 15028 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 12:06:23 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 12:06:23 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 12:06:23 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 12:06:24 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 12:06:24 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 12:06:24 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 12:06:24 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 12:06:25 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 12:06:25 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 1820 ms
+2020-03-10 12:06:25 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 12:06:25 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 12:06:25 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 12:06:25 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 12:06:25 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 2.969 seconds (JVM running for 3.501)
+2020-03-10 12:06:29 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 12:06:29 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 12:06:29 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 6 ms
+2020-03-10 12:40:08 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 7060 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 12:40:08 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 12:40:08 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 12:40:08 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 12:40:11 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 12:40:11 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 12:40:11 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 12:40:11 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 12:40:11 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 12:40:11 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 2206 ms
+2020-03-10 12:40:11 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 12:40:11 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 12:40:11 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 12:40:11 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 12:40:11 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 3.283 seconds (JVM running for 3.93)
+2020-03-10 12:40:12 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 12:40:12 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 12:40:12 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 8 ms
+2020-03-10 12:43:00 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 9340 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 12:43:00 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 12:43:00 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 12:43:00 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 12:43:02 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 12:43:02 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 12:43:02 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 12:43:02 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 12:43:02 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 12:43:02 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 1727 ms
+2020-03-10 12:43:02 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 12:43:03 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 12:43:03 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 12:43:03 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 12:43:03 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 2.892 seconds (JVM running for 3.444)
+2020-03-10 12:43:06 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 12:43:06 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 12:43:06 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 6 ms
+2020-03-10 12:43:18 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 11048 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 12:43:18 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 12:43:18 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 12:43:18 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 12:43:20 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 12:43:20 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 12:43:20 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 12:43:20 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 12:43:20 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 12:43:20 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 1779 ms
+2020-03-10 12:43:20 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 12:43:20 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 12:43:20 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 12:43:20 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 12:43:20 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 2.774 seconds (JVM running for 3.311)
+2020-03-10 12:43:22 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 12:43:22 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 12:43:22 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 5 ms
+2020-03-10 12:43:41 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 1328 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 12:43:41 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 12:43:41 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 12:43:41 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 12:43:43 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 12:43:43 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 12:43:43 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 12:43:43 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 12:43:43 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 12:43:43 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 1827 ms
+2020-03-10 12:43:43 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 12:43:43 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 12:43:43 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 12:43:43 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 12:43:43 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 2.879 seconds (JVM running for 3.397)
+2020-03-10 12:43:45 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 12:43:45 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 12:43:45 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 8 ms
+2020-03-10 12:44:18 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 7204 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 12:44:18 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 12:44:18 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 12:44:18 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 12:44:20 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 12:44:20 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 12:44:20 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 12:44:20 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 12:44:20 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 12:44:20 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 2197 ms
+2020-03-10 12:44:20 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 12:44:20 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 12:44:20 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 12:44:20 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 12:44:20 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 3.291 seconds (JVM running for 3.78)
+2020-03-10 12:44:22 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 12:44:22 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 12:44:22 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 6 ms
+2020-03-10 12:45:03 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 16056 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 12:45:03 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 12:45:03 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 12:45:03 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 12:45:05 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 12:45:05 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 12:45:05 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 12:45:05 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 12:45:05 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 12:45:05 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 1955 ms
+2020-03-10 12:45:05 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 12:45:06 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 12:45:06 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 12:45:06 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 12:45:06 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 3.084 seconds (JVM running for 3.644)
+2020-03-10 12:45:06 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 12:45:06 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 12:45:06 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 7 ms
+2020-03-10 12:56:42 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 5548 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 12:56:42 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 12:56:42 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 12:56:42 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 12:56:44 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 12:56:44 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 12:56:44 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 12:56:44 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 12:56:44 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 12:56:44 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 2008 ms
+2020-03-10 12:56:44 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 12:56:44 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 12:56:45 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 12:56:45 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 12:56:45 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 3.125 seconds (JVM running for 3.63)
+2020-03-10 12:57:37 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 5384 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 12:57:37 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 12:57:37 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 12:57:37 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 12:57:39 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 12:57:39 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 12:57:39 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 12:57:39 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 12:57:39 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 12:57:39 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 1957 ms
+2020-03-10 12:57:39 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 12:57:39 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 12:57:40 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 12:57:40 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 12:57:40 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 2.991 seconds (JVM running for 3.501)
+2020-03-10 12:57:42 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 12:57:42 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 12:57:42 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 7 ms
+2020-03-10 13:10:48 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 18556 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 13:10:48 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 13:10:48 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 13:10:48 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 13:10:50 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 13:10:50 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 13:10:50 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 13:10:50 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 13:10:50 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 13:10:50 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 1830 ms
+2020-03-10 13:10:50 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 13:10:50 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 13:10:50 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 13:10:50 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 13:10:50 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 3.024 seconds (JVM running for 3.572)
+2020-03-10 13:10:56 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 13:10:56 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 13:10:56 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 6 ms
+2020-03-10 14:19:42 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 1516 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 14:19:42 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 14:19:43 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 14:19:43 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 14:19:44 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 14:19:44 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 14:19:44 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 14:19:44 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 14:19:45 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 14:19:45 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 2009 ms
+2020-03-10 14:19:45 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 14:19:45 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 14:19:45 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 14:19:45 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 14:19:45 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 3.306 seconds (JVM running for 3.892)
+2020-03-10 14:19:47 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 14:19:47 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 14:19:47 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 7 ms
+2020-03-10 14:42:41 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 244 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 14:42:41 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 14:42:41 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 14:42:41 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 14:42:43 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 14:42:43 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 14:42:43 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 14:42:43 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 14:42:43 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 14:42:43 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 1879 ms
+2020-03-10 14:42:43 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 14:42:43 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 14:42:43 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 14:42:43 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 14:42:43 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 2.968 seconds (JVM running for 3.53)
+2020-03-10 14:42:54 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 14:42:54 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 14:42:54 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 5 ms
+2020-03-10 14:44:51 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 5756 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 14:44:51 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 14:44:51 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 14:44:51 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 14:44:53 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 14:44:53 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 14:44:53 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 14:44:53 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 14:44:53 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 14:44:53 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 1973 ms
+2020-03-10 14:44:53 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 14:44:53 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 14:44:53 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 14:44:53 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 14:44:53 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 3.034 seconds (JVM running for 3.558)
+2020-03-10 14:44:55 INFO  http-nio-8080-exec-2 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 14:44:55 INFO  http-nio-8080-exec-2 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 14:44:55 INFO  http-nio-8080-exec-2 org.springframework.web.servlet.DispatcherServlet Completed initialization in 8 ms
+2020-03-10 14:46:20 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 1764 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 14:46:20 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 14:46:20 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 14:46:20 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 14:46:22 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 14:46:22 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 14:46:22 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 14:46:22 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 14:46:22 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 14:46:22 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 1777 ms
+2020-03-10 14:46:22 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 14:46:23 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 14:46:23 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 14:46:23 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 14:46:23 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 2.8 seconds (JVM running for 3.347)
+2020-03-10 14:46:24 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 14:46:24 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 14:46:24 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 6 ms
+2020-03-10 14:47:11 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 2448 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 14:47:11 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 14:47:11 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 14:47:11 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 14:47:13 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 14:47:13 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 14:47:13 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 14:47:13 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 14:47:13 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 14:47:13 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 1745 ms
+2020-03-10 14:47:13 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 14:47:14 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 14:47:14 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 14:47:14 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 14:47:14 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 2.773 seconds (JVM running for 3.308)
+2020-03-10 14:47:16 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 14:47:16 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 14:47:16 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 8 ms
+2020-03-10 14:48:21 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 15784 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 14:48:21 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 14:48:21 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 14:48:21 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 14:48:22 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 14:48:22 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 14:48:22 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 14:48:22 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 14:48:23 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 14:48:23 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 1836 ms
+2020-03-10 14:48:23 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 14:48:23 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 14:48:23 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 14:48:23 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 14:48:23 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 2.913 seconds (JVM running for 3.439)
+2020-03-10 14:53:04 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 14:53:04 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 14:53:04 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 8 ms
+2020-03-10 14:59:11 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 4560 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 14:59:11 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 14:59:11 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 14:59:11 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 14:59:13 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 14:59:13 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 14:59:13 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 14:59:13 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 14:59:13 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 14:59:13 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 1952 ms
+2020-03-10 14:59:14 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 14:59:14 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 14:59:14 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 14:59:14 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 14:59:14 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 2.994 seconds (JVM running for 3.557)
+2020-03-10 14:59:15 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 14:59:15 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 14:59:16 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 6 ms
+2020-03-10 15:36:05 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 2212 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 15:36:05 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 15:36:05 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 15:36:05 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 15:36:07 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 15:36:07 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 15:36:07 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 15:36:07 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 15:36:07 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 15:36:07 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 1763 ms
+2020-03-10 15:36:07 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 15:36:08 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 15:36:08 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 15:36:08 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 15:36:08 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 2.772 seconds (JVM running for 3.288)
+2020-03-10 15:36:11 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 15:36:11 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 15:36:11 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 4 ms
+2020-03-10 15:39:12 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 13632 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 15:39:12 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 15:39:12 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 15:39:12 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 15:39:14 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 15:39:14 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 15:39:14 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 15:39:14 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 15:39:14 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 15:39:14 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 1957 ms
+2020-03-10 15:39:14 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 15:39:14 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 15:39:14 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 15:39:14 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 15:39:14 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 3.092 seconds (JVM running for 3.667)
+2020-03-10 15:39:16 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 15:39:16 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 15:39:16 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 8 ms
+2020-03-10 15:39:55 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 10716 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 15:39:55 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 15:39:55 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 15:39:55 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 15:39:57 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 15:39:57 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 15:39:57 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 15:39:57 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 15:39:57 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 15:39:57 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 1825 ms
+2020-03-10 15:39:58 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 15:39:58 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 15:39:58 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 15:39:58 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 15:39:58 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 3.014 seconds (JVM running for 3.6)
+2020-03-10 15:39:58 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 15:39:58 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 15:39:58 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 6 ms
+2020-03-10 15:40:34 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 6052 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 15:40:34 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 15:40:34 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 15:40:34 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 15:40:36 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 15:40:36 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 15:40:36 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 15:40:36 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 15:40:36 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 15:40:36 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 1854 ms
+2020-03-10 15:40:36 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 15:40:36 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 15:40:36 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 15:40:36 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 15:40:36 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 2.893 seconds (JVM running for 3.464)
+2020-03-10 15:40:38 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 15:40:38 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 15:40:38 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 6 ms
+2020-03-10 15:50:45 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 9868 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 15:50:45 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 15:50:45 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 15:50:45 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 15:50:47 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 15:50:47 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 15:50:47 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 15:50:47 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 15:50:47 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 15:50:47 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 1855 ms
+2020-03-10 15:50:47 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 15:50:48 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 15:50:48 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 15:50:48 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 15:50:48 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 2.974 seconds (JVM running for 3.543)
+2020-03-10 15:50:52 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 15:50:52 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 15:50:52 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 6 ms
+2020-03-10 15:52:27 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 1620 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 15:52:27 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 15:52:27 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 15:52:27 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 15:52:29 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 15:52:29 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 15:52:29 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 15:52:29 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 15:52:29 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 15:52:29 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 1858 ms
+2020-03-10 15:52:29 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 15:52:29 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 15:52:29 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 15:52:29 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 15:52:29 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 2.922 seconds (JVM running for 3.423)
+2020-03-10 15:52:32 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 15:52:32 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 15:52:32 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 6 ms
+2020-03-10 15:53:55 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 19804 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 15:53:55 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 15:53:55 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 15:53:55 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 15:53:57 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 15:53:57 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 15:53:57 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 15:53:57 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 15:53:57 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 15:53:57 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 1926 ms
+2020-03-10 15:53:57 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 15:53:58 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 15:53:58 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 15:53:58 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 15:53:58 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 3.091 seconds (JVM running for 3.657)
+2020-03-10 15:54:02 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 15:54:02 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 15:54:02 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 6 ms
+2020-03-10 15:56:21 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 11916 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 15:56:21 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 15:56:21 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 15:56:21 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 15:56:23 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 15:56:23 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 15:56:23 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 15:56:23 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 15:56:23 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 15:56:23 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 1996 ms
+2020-03-10 15:56:23 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 15:56:24 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 15:56:24 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 15:56:24 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 15:56:24 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 3.103 seconds (JVM running for 3.628)
+2020-03-10 15:56:26 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 15:56:26 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 15:56:26 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 5 ms
+2020-03-10 15:58:42 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 3544 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 15:58:42 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 15:58:42 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 15:58:42 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 15:58:44 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 15:58:44 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 15:58:44 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 15:58:44 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 15:58:44 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 15:58:44 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 1864 ms
+2020-03-10 15:58:44 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 15:58:44 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 15:58:44 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 15:58:44 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 15:58:44 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 2.931 seconds (JVM running for 3.455)
+2020-03-10 15:58:49 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 15:58:49 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 15:58:49 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 5 ms
+2020-03-10 16:04:24 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 9520 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 16:04:24 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 16:04:24 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 16:04:24 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 16:04:26 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 16:04:26 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 16:04:26 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 16:04:26 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 16:04:26 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 16:04:26 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 1901 ms
+2020-03-10 16:04:26 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 16:04:26 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 16:04:26 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 16:04:26 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 16:04:26 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 3.063 seconds (JVM running for 3.581)
+2020-03-10 16:04:30 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 16:04:30 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 16:04:30 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 6 ms
+2020-03-10 16:05:58 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 18876 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 16:05:58 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 16:05:58 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 16:05:58 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 16:06:00 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 16:06:00 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 16:06:00 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 16:06:00 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 16:06:00 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 16:06:00 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 1903 ms
+2020-03-10 16:06:00 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 16:06:00 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 16:06:00 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 16:06:00 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 16:06:00 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 3.021 seconds (JVM running for 3.656)
+2020-03-10 16:06:16 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 16:06:16 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 16:06:16 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 6 ms
+2020-03-10 16:07:22 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 7864 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 16:07:22 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 16:07:22 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 16:07:22 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 16:07:24 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 16:07:24 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 16:07:24 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 16:07:24 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 16:07:24 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 16:07:24 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 1795 ms
+2020-03-10 16:07:24 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 16:07:24 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 16:07:24 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 16:07:24 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 16:07:24 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 2.892 seconds (JVM running for 3.461)
+2020-03-10 16:07:39 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 16:07:39 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 16:07:39 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 7 ms
+2020-03-10 16:13:05 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 18844 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 16:13:05 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 16:13:05 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 16:13:05 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 16:13:07 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 16:13:07 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 16:13:07 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 16:13:07 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 16:13:07 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 16:13:07 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 1938 ms
+2020-03-10 16:13:07 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 16:13:08 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 16:13:08 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 16:13:08 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 16:13:08 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 3.04 seconds (JVM running for 3.554)
+2020-03-10 16:13:14 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 16:13:14 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 16:13:14 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 7 ms
+2020-03-10 16:15:17 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 20268 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 16:15:17 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 16:15:17 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 16:15:17 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 16:15:18 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 16:15:18 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 16:15:18 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 16:15:18 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 16:15:19 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 16:15:19 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 1878 ms
+2020-03-10 16:15:19 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 16:15:19 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 16:15:19 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 16:15:19 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 16:15:19 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 3.035 seconds (JVM running for 3.55)
+2020-03-10 16:15:24 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 16:15:24 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 16:15:24 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 6 ms
+2020-03-10 16:23:04 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 19536 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 16:23:04 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 16:23:04 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 16:23:04 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 16:23:06 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 16:23:06 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 16:23:06 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 16:23:06 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 16:23:06 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 16:23:06 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 1822 ms
+2020-03-10 16:23:06 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 16:23:06 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 16:23:06 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 16:23:06 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 16:23:06 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 2.985 seconds (JVM running for 3.634)
+2020-03-10 16:23:28 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 16:23:28 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 16:23:28 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 5 ms
+2020-03-10 16:29:34 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 20136 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 16:29:34 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 16:29:34 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 16:29:34 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 16:29:36 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 16:29:36 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 16:29:36 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 16:29:36 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 16:29:36 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 16:29:36 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 1783 ms
+2020-03-10 16:29:36 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 16:29:36 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 16:29:36 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 16:29:36 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 16:29:36 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 2.841 seconds (JVM running for 3.386)
+2020-03-10 16:29:47 INFO  http-nio-8080-exec-2 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 16:29:47 INFO  http-nio-8080-exec-2 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 16:29:47 INFO  http-nio-8080-exec-2 org.springframework.web.servlet.DispatcherServlet Completed initialization in 7 ms
+2020-03-10 16:30:40 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 17588 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 16:30:40 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 16:30:40 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 16:30:40 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 16:30:42 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 16:30:42 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 16:30:42 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 16:30:42 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 16:30:42 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 16:30:42 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 1875 ms
+2020-03-10 16:30:42 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 16:30:42 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 16:30:42 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 16:30:42 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 16:30:42 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 2.952 seconds (JVM running for 3.468)
+2020-03-10 16:30:45 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 16:30:45 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 16:30:45 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 7 ms
+2020-03-10 16:34:26 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 10764 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 16:34:26 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 16:34:27 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 16:34:27 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 16:34:28 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 16:34:29 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 16:34:29 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 16:34:29 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 16:34:29 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 16:34:29 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 2076 ms
+2020-03-10 16:34:29 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 16:34:29 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 16:34:29 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 16:34:29 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 16:34:29 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 3.394 seconds (JVM running for 3.948)
+2020-03-10 16:34:35 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 16:34:35 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 16:34:35 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 7 ms
+2020-03-10 16:44:37 INFO  Thread-5 org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Shutting down ExecutorService 'applicationTaskExecutor'
+2020-03-10 16:44:50 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 19840 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 16:44:50 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 16:44:50 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 16:44:50 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 16:44:52 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 16:44:52 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 16:44:52 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 16:44:52 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 16:44:52 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 16:44:52 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 2018 ms
+2020-03-10 16:44:52 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 16:44:52 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 16:44:52 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 16:44:52 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 16:44:52 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 3.098 seconds (JVM running for 3.682)
+2020-03-10 16:44:58 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 16:44:58 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 16:44:58 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 6 ms
+2020-03-10 16:54:10 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 18052 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 16:54:10 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 16:54:10 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 16:54:10 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 16:54:12 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 16:54:12 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 16:54:12 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 16:54:12 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 16:54:12 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 16:54:12 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 1894 ms
+2020-03-10 16:54:12 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 16:54:13 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 16:54:13 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 16:54:13 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 16:54:13 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 3.09 seconds (JVM running for 3.685)
+2020-03-10 16:54:22 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 16:54:22 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 16:54:22 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 6 ms
+2020-03-10 16:55:49 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 19584 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 16:55:49 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 16:55:49 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 16:55:49 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 16:55:51 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 16:55:51 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 16:55:51 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 16:55:51 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 16:55:51 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 16:55:51 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 1870 ms
+2020-03-10 16:55:51 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 16:55:51 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 16:55:51 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 16:55:51 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 16:55:51 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 3.046 seconds (JVM running for 3.615)
+2020-03-10 16:56:53 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 15952 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 16:56:53 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 16:56:53 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 16:56:53 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 16:56:55 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 16:56:55 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 16:56:55 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 16:56:55 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 16:56:55 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 16:56:55 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 1747 ms
+2020-03-10 16:56:55 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 16:56:55 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 16:56:55 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 16:56:55 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 16:56:55 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 2.834 seconds (JVM running for 3.372)
+2020-03-10 16:57:04 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 16:57:04 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 16:57:04 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 6 ms
+2020-03-10 17:02:56 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 5976 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 17:02:56 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 17:02:56 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 17:02:56 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 17:02:58 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 17:02:58 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 17:02:58 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 17:02:58 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 17:02:58 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 17:02:58 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 1814 ms
+2020-03-10 17:02:58 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 17:02:59 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 17:02:59 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 17:02:59 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 17:02:59 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 2.892 seconds (JVM running for 3.402)
+2020-03-10 17:44:33 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 17:44:33 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 17:44:33 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 5 ms
+2020-03-10 17:45:04 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 19320 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 17:45:04 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 17:45:04 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 17:45:04 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 17:45:06 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 17:45:06 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 17:45:06 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 17:45:06 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 17:45:06 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 17:45:06 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 1844 ms
+2020-03-10 17:45:06 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 17:45:06 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 17:45:06 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 17:45:06 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 17:45:06 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 2.95 seconds (JVM running for 3.494)
+2020-03-10 17:45:09 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 17:45:09 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 17:45:09 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 5 ms
+2020-03-10 17:51:44 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 10152 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 17:51:44 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 17:51:44 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 17:51:44 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 17:51:46 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 17:51:46 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 17:51:46 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 17:51:46 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 17:51:46 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 17:51:46 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 2004 ms
+2020-03-10 17:51:46 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 17:51:46 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 17:51:47 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 17:51:47 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 17:51:47 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 3.148 seconds (JVM running for 3.704)
+2020-03-10 17:53:23 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 1508 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 17:53:23 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 17:53:23 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 17:53:23 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 17:53:25 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 17:53:25 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 17:53:25 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 17:53:25 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 17:53:25 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 17:53:25 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 2294 ms
+2020-03-10 17:53:25 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 17:53:26 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 17:53:26 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 17:53:26 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 17:53:26 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 3.83 seconds (JVM running for 5.717)
+2020-03-10 17:53:34 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 17:53:34 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 17:53:34 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 8 ms
+2020-03-10 18:04:26 INFO  SpringContextShutdownHook org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Shutting down ExecutorService 'applicationTaskExecutor'
+2020-03-10 18:04:31 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 17384 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 18:04:31 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 18:04:31 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 18:04:31 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 18:04:33 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 18:04:33 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 18:04:33 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 18:04:33 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 18:04:33 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 18:04:33 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 2247 ms
+2020-03-10 18:04:34 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 18:04:34 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 18:04:34 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 18:04:34 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 18:04:34 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 3.6 seconds (JVM running for 4.354)
+2020-03-10 18:04:36 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 18:04:36 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 18:04:36 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 7 ms
+2020-03-10 18:18:02 INFO  SpringContextShutdownHook org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Shutting down ExecutorService 'applicationTaskExecutor'
+2020-03-10 18:18:06 INFO  restartedMain com.example.demo.PantographApplication Starting PantographApplication on DESKTOP-23IUO7J with PID 14020 (D:\workspace\pantograph\target\classes started by admin in D:\workspace\pantograph)
+2020-03-10 18:18:06 INFO  restartedMain com.example.demo.PantographApplication No active profile set, falling back to default profiles: default
+2020-03-10 18:18:06 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-03-10 18:18:06 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-03-10 18:18:08 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-03-10 18:18:08 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-10 18:18:08 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-03-10 18:18:08 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-10 18:18:08 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-03-10 18:18:08 INFO  restartedMain org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 1932 ms
+2020-03-10 18:18:08 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-10 18:18:09 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-03-10 18:18:09 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-03-10 18:18:09 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-10 18:18:09 INFO  restartedMain com.example.demo.PantographApplication Started PantographApplication in 3.232 seconds (JVM running for 3.927)
+2020-03-10 18:18:10 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-10 18:18:10 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-03-10 18:18:11 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 6 ms
